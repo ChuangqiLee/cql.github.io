@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my personal page."
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,18 +12,25 @@ I am a computer professional undergraduate, will graduate in June 2025, I studie
 Educational experience
 ======
 2021.09--2025.06  Henan Normal University                                    undergraduate
+
 2023.10--Present  University of Wisconsin-Milwaukee                          Research assistant
+
 2023.11--2024.04  School of Vehicle and Delivery, Tsinghua University        INTERN
+
 2024.04--Present  Institute of Automation, Chinese Academy of Sciences       INTERN
 
-Getting started
+Project experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Research on Autonomous Driving's Perception Challenges in Special Situations          
+Intern, Advisor: Dr. Yonglin Tian, Institute of Automation, Chinese Academy of Sciences        
+•	Collected autonomous driving case data and used the MMDetection and MMDetection3D frameworks, trained autonomous driving perception solutions released at top conferences by mainstream models, like SparseBEV.
+•	Identified several drawbacks in mainstream solutions, leading to the creation of a specialized dataset to address these gaps. 
+•	Planned to optimize mainstream autonomous driving models based on the findings and the newly developed dataset. 
+2. Mental Health Agent System Based on Large Language Model                           
+Research assistant, Advisor: Prof. Jiangtao Gong, Tsinghua University                                      
+•	Developed a large language model system to automatically address psychological issues and implement superego functionalities. 
+•	Collected data through interviews and surveys to create datasets with personal characteristics, and constructed personalized response methods using RAG.
+•	Built the RedisVL vector library to reduce LLM response return time.
 
 Site-wide configuration
 ------
