@@ -19,7 +19,7 @@ Search experience
   * University of Wisconsin-Milwaukee 
 
 * 2023.11--2024.04: Intern
-  * Tsinghua University
+  * School of Vehicle and Delivery, Tsinghua University 
 
 * 2024.04--Present: Intern
   * Institute of Automation, Chinese Academy of Sciences
