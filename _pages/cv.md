@@ -15,6 +15,9 @@ Education
 
 Search experience
 ======
+* 2022.3--2024.6: Undergraduate Leader
+   * Henan Key Laboratory of Educational Artificial Intelligence and Personalized Learning
+
 * 2023.10--Present: Research Assistant
   * University of Wisconsin-Milwaukee 
 
@@ -23,6 +26,12 @@ Search experience
 
 * 2024.04--Present: Intern
   * Institute of Automation, Chinese Academy of Sciences
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Project experience
 ======
@@ -53,27 +62,5 @@ Leader, Advisor: Prof. Dong Liu, Dean of Computer & Information Engineering Scho
 •	Found that students using the system scored 20% higher on average in their finals.
 
 
-[/
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
 
-  /]
+  
