@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "lcq.jpg"
+  avatar           : "lcq.png"
   name             : "ChuangqiLee"
   pronouns         : "he/his"  
   bio              : "A man who loves life and freedom"
