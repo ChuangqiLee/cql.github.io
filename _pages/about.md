@@ -19,7 +19,7 @@ You can contact me by email, 007 work system, ENTJ personality, welcome to coope
 
 # NEWS
 
-06-2024, I submitted my first article with an impact factor of 8 to IEEETIV (not yet accepted).\
+06-2024, I submitted my first paper with an impact factor of 8 to IEEE TIV (yet to be accepted).\
 06-2024, the innovative training program for college students was successfully completed.\
 04-2024, the manuscript I submitted to IJHCI journal was accepted.\
 02-2024, I became an intern in the Institute of Automation of the Chinese Academy of Sciences, practicing automatic driving of large language models.\
