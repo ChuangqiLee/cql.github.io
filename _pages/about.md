@@ -19,6 +19,10 @@ You can contact me by email, 007 work system, ENTJ personality, welcome to coope
 
 # NEWS
 
+**Last updated: 22-06-2024.**
+
+
+
 06-2024, I submitted my first paper with an impact factor of 8 to IEEE TIV (yet to be accepted).\
 06-2024, I retired from the school ACM competition team.\
 06-2024, the innovative training program for college students was successfully completed.\
