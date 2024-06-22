@@ -23,7 +23,7 @@ You can contact me by email, 007 work system, ENTJ personality, welcome to coope
 06-2024, the innovative training program for college students was successfully completed.\
 04-2024, the manuscript I submitted to IJHCI journal was accepted.\
 02-2024, I became an intern in the Institute of Automation of the Chinese Academy of Sciences, practicing automatic driving of large language models.\
-02-2024, I finished my internship in Tsinghua AIR.\
+02-2024, I successfully finished my internship in Tsinghua AIR Winter Camp.\
 11-2023, I successfully joined Tsinghua University AIR Winter Camp internship large language model related content.\
 09-2023, I got to know Mr. Roger from the University of Wisconsin-Milwaukee and began to follow him in the first stage of scientific research training.\
 06-2023, with me as the host, I applied for the college student innovation project and got the fund.\
