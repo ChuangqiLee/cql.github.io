@@ -33,7 +33,7 @@ You can contact me by email, 007 work system, ENTJ personality, welcome to coope
 09-2023, I got to know Mr. Roger from the University of Wisconsin-Milwaukee and began to follow him in the first stage of scientific research training.\
 06-2023, with me as the host, I applied for the college student innovation project and got the fund.\
 03-2023, the manuscript I submitted to CMSDA-2023 was accepted.\
-09-2022, I began my internship with Hui Liu, a teacher who started working on wisdom education.\
+09-2022, I began to follow teacher Liu Hui to carry out scientific research on wisdom education.\
 06-2022, I joined the Key Laboratory of Educational Artificial Intelligence and Personalized Learning of Henan Province.\
 02-2022, I joined the ACM competition team at my school.\
 09-2021, I became an undergraduate student in Henan Normal University.
