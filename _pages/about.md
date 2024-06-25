@@ -47,4 +47,4 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
 09-2022, I began to follow teacher Liu Hui to carry out scientific research on wisdom education.\
 06-2022, I joined the Key Laboratory of Educational Artificial Intelligence and Personalized Learning of Henan Province.\
 02-2022, I joined the ACM competition team at my school.\
-09-2021, I became an undergraduate student in Henan Normal University.
+09-2021, I enter the university to begin the university life.
