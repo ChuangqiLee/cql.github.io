@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer professional undergraduate, will graduate in June 2025, I studied at [Henan Normal University college of computer and information engineering](https://www.htu.edu.cn/cs/main.htm), I have served in the student Union and class committee, actively participated in volunteer services, and have strong organizational skills, my research interests include language model, automatic driving, human-computer interaction, computer vision.
+I am a computer professional undergraduate, will graduate in June 2025, , I have served in the student Union and class committee, actively participated in volunteer services, and have strong organizational skills, my research interests include language model, automatic driving, human-computer interaction, computer vision.
 
 A big and handsome boy, loving freedom! He likes sports, reading books, playing chess, likes food, likes traveling, loves music, and wants to do something to let people remember him!
 
 You can contact me by email, 007 work system, [ENTJ personality](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator), welcome to cooperate with me in scientific research work!
+
+<!--
+I studied at [Henan Normal University college of computer and information engineering](https://www.htu.edu.cn/cs/main.htm)
+-->
 
 # About the blog
 
