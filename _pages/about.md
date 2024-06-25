@@ -32,6 +32,7 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
 06-2024, I submitted my first paper with an impact factor of 8 to IEEE TIV (yet to be accepted).\
 06-2024, I retired from the school ACM competition team.\
 06-2024, the innovative training program for college students was successfully completed.\
+05-2024，Participated in the evaluation of Henan Innovation Star and advanced to the finals (770,000 undergraduate students in the province entered the top 26).\
 04-2024, the manuscript I submitted to IJHCI journal was accepted.\
 02-2024, I became an intern in the Institute of Automation of the Chinese Academy of Sciences, practicing automatic driving of large language models.\
 02-2024, I successfully finished my internship in Tsinghua AIR Winter Camp.\
