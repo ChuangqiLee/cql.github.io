@@ -11,7 +11,7 @@ I am a computer professional undergraduate, will graduate in June 2025, I studie
 
 A big and handsome boy, loving freedom! He likes sports, reading books, playing chess, likes food, likes traveling, loves music, and wants to do something to let people remember him!
 
-You can contact me by email, 007 work system, ENTJ personality, welcome to cooperate with me in scientific research work!
+You can contact me by email, 007 work system, [ENTJ personality](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator), welcome to cooperate with me in scientific research work!
 
 # About the blog
 
