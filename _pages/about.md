@@ -7,13 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer professional undergraduate, will graduate in June 2025, I studied at henan normal university college of computer and information engineering (https://www.htu.edu.cn/cs/main.htm), my research interests include language model, automatic driving, human-computer interaction, computer vision.
+I am a computer professional undergraduate, will graduate in June 2025, I studied at [Henan Normal University college of computer and information engineering](https://www.htu.edu.cn/cs/main.htm), I have served in the student Union and class committee, actively participated in volunteer services, and have strong organizational skills, my research interests include language model, automatic driving, human-computer interaction, computer vision.
 
 A big and handsome boy, loving freedom! He likes sports, reading books, playing chess, likes food, likes traveling, loves music, and wants to do something to let people remember him!
 
 You can contact me by email, 007 work system, ENTJ personality, welcome to cooperate with me in scientific research work!
 
+# About the blog
 
+**Last updated: 25-06-2024.**
+
+**At present, I have experience in publishing technical sharing posts on CSDN, which is not much on other international websites. I have about 4950 fans on CSDN, which is still being updated. I will gradually design an international technology sharing website.**
+
+This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2135.3001.5343) in CSDN, welcome to visit!
 
 
 
