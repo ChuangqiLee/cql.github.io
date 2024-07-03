@@ -53,4 +53,5 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
 
 # Personal style
 
+![Handsome photos of shameless narcissism](https://github.com/ChuangqiLee/cql.github.io/blob/master/images/lcq.jpg)
 
