@@ -53,8 +53,17 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
 
 # Personal style
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq.jpg" width="300" />
-  <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq1.jpg" width="300" /> 
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq.jpg" width="300"/>
+      <p align="center">Shameless narcissism</p>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq1.jpg" width="300"/>
+      <p align="center">self-promotion</p>
+    </td>
+  </tr>
+</table>
+
 
