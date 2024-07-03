@@ -63,10 +63,6 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
       <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq1.jpg" width="300"/>
       <p>self-promotion</p>
     </td>
-    <td style="text-align: center;">
-      <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq998.jpg" width="300"/>
-      <p>Look good</p>
-    </td>
   </tr>
 </table>
 
@@ -81,10 +77,6 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
       <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq4.jpg" width="300"/>
       <p align="center">Make a cool gesture 2</p>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq2.jpg" width="300"/>
-      <p align="center">Feel good</p>
-    </td>
   </tr>
 </table>
 
@@ -93,10 +85,6 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
     <td>
       <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/cqcq.png" width="300"/>
       <p align="center">The side of the face being captured</p>
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq997.jpg" width="300"/>
-      <p align="center">I don't know what to say</p>
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq5.jpg" width="300"/>
