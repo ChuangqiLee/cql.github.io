@@ -55,20 +55,21 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
 
 <table>
   <tr>
-    <td>
+    <td style="text-align: center;">
       <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq.jpg" width="300"/>
-      <p align="center">Shameless narcissism</p>
+      <p>Shameless narcissism</p>
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq1.jpg" width="300"/>
-      <p align="center">self-promotion</p>
+      <p>self-promotion</p>
     </td>
-    <td>
+    <td style="text-align: center;">
       <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq998.jpg" width="300"/>
-      <p align="center">Look good</p>
+      <p>Look good</p>
     </td>
   </tr>
 </table>
+
 
 <table>
   <tr>
