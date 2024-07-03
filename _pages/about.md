@@ -66,4 +66,16 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq3.jpg" width="300"/>
+      <p align="center">Make a cool gesture 1</p>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/ChuangqiLee/cql.github.io/master/images/lcq4.jpg" width="300"/>
+      <p align="center">Make a cool gesture 2</p>
+    </td>
+  </tr>
+</table>
 
