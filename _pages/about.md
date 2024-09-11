@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer professional undergraduate, will graduate in June 2025, and will soon apply for the US fall 2025 PhD, I have served in the student Union and class committee, actively participated in volunteer services, and have strong organizational skills, my research interests include language model, automatic driving, human-computer interaction, computer vision.
+I am a computer professional undergraduate, will graduate in June 2025, I have served in the student Union and class committee, actively participated in volunteer services, and have strong organizational skills, my research interests include language model, automatic driving, human-computer interaction, computer vision.
 
 A big and handsome boy, loving freedom! He likes sports, reading books, playing chess, likes food, likes traveling, loves music, and wants to do something to let people remember him!
 
@@ -33,7 +33,7 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
 
 
 
-06-2024, I submitted my first paper with an impact factor of 8 to IEEE TIV (yet to be accepted).\
+06-2024, I submitted my first paper with an impact factor of 14 to IEEE TIV (yet to be accepted).\
 06-2024, I retired from the school ACM competition team.\
 06-2024, the innovative training program for college students was successfully completed.\
 05-2024，Participated in the evaluation of Henan Innovation Star and advanced to the finals (770,000 undergraduate students in the province entered the top 26).\
