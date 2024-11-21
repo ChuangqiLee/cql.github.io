@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer professional undergraduate, will graduate in June 2025, I have served in the student Union and class committee, actively participated in volunteer services, and have strong organizational skills, my research interests include language model, automatic driving, human-computer interaction, computer vision.
+I am a computer professional undergraduate, will graduate in June 2025, I have served in the student Union and class committee, actively participated in volunteer services, and have strong organizational skills, my research interests include language model, automatic driving, human-computer interaction, computer vision. I am also a [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) and other top journal reviewers!
 
 A big and handsome boy, loving freedom! He likes sports, reading books, playing chess, likes food, likes traveling, loves music, and wants to do something to let people remember him!
 
@@ -19,9 +19,9 @@ I studied at [Henan Normal University college of computer and information engine
 
 # About the blog
 
-**Last updated: 25-06-2024.**
+**Last updated: 22-11-2024.**
 
-**At present, I have experience in publishing technical sharing posts on CSDN, which is not much on other international websites. I have about 4950 fans on CSDN, which is still being updated. I will gradually design an international technology sharing website.**
+**At present, I have experience in publishing technical sharing posts on CSDN, which is not much on other international websites. I have about 5350 fans on CSDN, which is still being updated. I will gradually design an international technology sharing website.**
 
 This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2135.3001.5343) in CSDN, welcome to visit!
 
@@ -29,10 +29,12 @@ This is [my personal home page](https://blog.csdn.net/weixin_62075168?spm=1010.2
 
 # NEWS
 
-**Last updated: 22-06-2024.**
+**Last updated: 22-11-2024.**
 
 
-
+10-2024, I have accepted two maunscript on IEEE publisher.\
+10-2024, I went to the University of Macau as an intern to participate in a project related to autonomous driving.\
+08-2024, I participated in the GSE conference in Beijing Normal University as a student representative.\
 06-2024, I submitted my first paper with an impact factor of 14 to IEEE TIV (yet to be accepted).\
 06-2024, I retired from the school ACM competition team.\
 06-2024, the innovative training program for college students was successfully completed.\
